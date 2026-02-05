@@ -1,0 +1,8 @@
+During this lesson, I learned that Git is a version control system for all files. 
+I also learned that not using Git means:
+losing your work, 
+having a chaotic file system, 
+not having a work history, 
+and being afraid to try new things.
+During this lesson, I also learned the key concepts of GIT, which are: 
+the repository, the staging area, and commit.
