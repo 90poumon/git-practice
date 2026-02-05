@@ -1,0 +1,5 @@
+Git tracks changes locally
+GitHub stores your repos in the cloud
+Push uploads your commits
+gh repo create connects local to remote
+Public repos can be shared with anyone
