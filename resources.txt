@@ -1,3 +1,4 @@
 Github CLI: i chouse this tool because it allows me to create repositories directly from my terminal
 VS: this is useful because it has great extensions for C# and Git integration
 Git commit: i included this concept because it helps me save versions of my code as i progress.
+GitHub Documentation: i use this link to find the specific syntax for Git commands.
